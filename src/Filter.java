@@ -1,16 +1,16 @@
+package src;
 
-public class Filter2a extends Filter {
+public class Filter {
 
-	public Filter2a() {
+	public Filter() {
 		// TODO Auto-generated constructor stub
 	}
 	
 	String Action(String in) {
 		String out;
-		out = in + "2 and ";
+		out = in;
 		
 		return out;
 	}
-
 
 }
