@@ -6,7 +6,7 @@ public class Filter2a extends Filter {
 		// TODO Auto-generated constructor stub
 	}
 	
-	String Action(String in) {
+	String Action2a(String in) {
 		String out;
 		out = in + "2 and ";
 		

@@ -6,11 +6,11 @@ public class Filter {
 		// TODO Auto-generated constructor stub
 	}
 	
-	String Action(String in) {
+	/* String Action(String in) {
 		String out;
 		out = in;
 		
 		return out;
-	}
+	} */
 
 }
